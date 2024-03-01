@@ -1,8 +1,24 @@
- <strong> Ola esse e meu perfi </strong> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible"  content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>  Turma do 2° C </title>
 
-<em> Eu me chamo flavio </em> e estou começando no ramo de programador ajudo todos na sala com essa materia.
+</head>
+<body>
+ <center>
 
-Também sou um mini porf que ajuda mais que a prof.
+    <h1>  Turma da noite 2° C   </h1>
 
-<strong> Para me encontrar venha a escola de noite ou no meu email </strong> camargo.flavio@escola.pr.gov.br
+</center>
 
+<p> 
+
+</p>
+
+
+
+
+</body>
